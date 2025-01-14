@@ -3,8 +3,8 @@
 header('Access-Control-Allow-Origin: *');
 header('Content-Type: text/html; charset=UTF-8');
 
-$EmailTo = "kestsvi@rambler.ru";
-$EmailFrom = "kest2517@mail.ru";
+$EmailTo = "test@rambler.ru";
+$EmailFrom = "test2517@mail.ru";
 $Subject = "Заявка на получение прайс-листа Benson";
 
 // Sanitize POST array
